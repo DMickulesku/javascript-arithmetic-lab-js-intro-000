@@ -27,6 +27,4 @@ function makeInt(n) {
   return (n)
 };
 
-function makeInt(n, base) {
-  parseInt(n, 10)
-}
+
